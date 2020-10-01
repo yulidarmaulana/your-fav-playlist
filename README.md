@@ -122,6 +122,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | Trash Taste | [Spotify](https://open.spotify.com/show/6i9SWtZPb30xVXWVHSKCqq?si=i0THYv-yRLy_ia9ozZgVoA)/[Youtube](https://www.youtube.com/c/TrashTaste/videos) | Spotify/Youtube | [Trash Taste](https://www.youtube.com/c/TrashTaste) | Entertainment | - |
 | Thirty days of lunch | [Spotify](https://open.spotify.com/show/0vFfPAk7zgDLnv3utpZ8ww?si=e-7TJI08QtGKkIfFYWcung) | Spotify | Ario Pratomo & Fellexandro Ruby | Self Improvement | [Alit Tri Utari](https://github.com/alittriutari) | 
 |Developer Muslim Podcast | [Spotify](https://open.spotify.com/show/2iXE3tvUyqeJiFWQJPFgZS) | Spotify | Adinda Praditya | Teknologi | - | 
+| ngobrolin startup & teknologi |[https://open.spotify.com/show/3cA81ivwFR2gDMF570j06X?si=9akuWUiVSNqEkRD8Q3HNmA](https://open.spotify.com/show/3cA81ivwFR2gDMF570j06X?si=9akuWUiVSNqEkRD8Q3HNmA)| Spotify | Imre Nagi | Teknologi | - |
 
 ## Kontributor ✨
 
@@ -155,6 +156,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="https://github.com/rafifirmansyah"><img src="https://avatars3.githubusercontent.com/u/27066514?v=4" width="120px;" alt=""/><br /><sub><b>rafifirmansyah28</b></sub></a><br /><a href="#content-rafifirmansyah" title="Content">🖋</a></td>
     <td align="center"><a href="http://andreasjp0.github.io"><img src="https://avatars1.githubusercontent.com/u/49325037?v=4" width="120px;" alt=""/><br /><sub><b>Juwand</b></sub></a><br /><a href="#content-andreasjp0" title="Content">🖋</a></td>
     <td align="center"><a href="http://tryoasnafi.my.id"><img src="https://avatars0.githubusercontent.com/u/61939827?v=4" width="120px;" alt=""/><br /><sub><b>Tryo Asnafi</b></sub></a><br /><a href="#content-tryoasnafi" title="Content">🖋</a></td>
+    <td align="center"><a href="http://yulidar.blogspot.com"><img src="https://avatars3.githubusercontent.com/u/31232250?s=400&u=f5701385a3a9c8fdb25a87e1d3e4842019e038dd&v=4" width="120px;" alt=""/><br /><sub><b>Yulidar Maulana</b></sub></a><br /><a href="#content-yulidar" title="Content">🖋</a></td>
   </tr>
 </table>
 
